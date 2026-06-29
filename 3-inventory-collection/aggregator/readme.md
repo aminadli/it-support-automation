@@ -18,4 +18,5 @@ This component serves as the backend of the pipeline, transforming fragmented us
 2. Go to `Extensions` > `Apps Script`.
 3. Paste the contents of `Merge-Reports.gs`.
 4. Replace `YOUR_GOOGLE_DRIVE_FOLDER_ID` with the ID of the folder where your Google Form saves uploads.
-5. Create a "Time-driven" trigger if you wish for the merge to happen automatically every hour.
+5. Upon clicking deploy it will pull information from the google drive into the master list
+6. It is advisable to move the deployed csv into archive folder to avoid duplicate
