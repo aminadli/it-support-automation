@@ -1,7 +1,7 @@
 # L1 IT Support: PC Provisioning & Automation Toolkit
 
 ## 🚀 The Mission
-Setting up a new corporate PC manually is a time-consuming process (typically 4-8 hours) prone to human error and inconsistency. This repository contains a suite of automation tools I developed to standardize the deployment lifecycle, reducing setup time to **under 45 minutes** while ensuring 100% configuration accuracy.
+Setting up a new corporate PC manually is a time-consuming process (typically 4-8 hours) prone to human error and inconsistency. This repository contains a suite of automation tools I developed to standardize the deployment lifecycle, reducing setup time to **2 hours** while ensuring 100% configuration accuracy.
 
 ## 📈 Performance Impact
 *   **Manual Setup:** ~4-8 Hours
