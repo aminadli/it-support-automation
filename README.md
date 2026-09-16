@@ -48,4 +48,4 @@ This repository documents my transition from **Legacy Procedural Scripting** (Ba
 
 ---
 **Author:** Amin Adli 
-**Role:** L1 Technical Support | Automation Enthusiast  
+**Role:** L1/L2 Technical Support | Automation Enthusiast  
